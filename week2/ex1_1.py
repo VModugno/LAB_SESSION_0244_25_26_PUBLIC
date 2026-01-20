@@ -119,8 +119,8 @@ if __name__ == '__main__':
         'g': 9.81,
         'h': 0.72,
         'world_time_step': 0.01,
-        'ss_duration': 0.8,
-        'ds_duration': 0.2,
+        'ss_duration': 80,
+        'ds_duration': 20,
         'first_swing': 'rfoot',
         'foot_size': 0.05,
         # Visualization params
